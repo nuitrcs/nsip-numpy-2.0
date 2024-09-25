@@ -1,0 +1,1 @@
+# nsip-numpy-2.0
